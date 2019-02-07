@@ -7,5 +7,6 @@ namespace ArabicExtension.Models
 {
     public class RtlExtension
     {
+        public string Version { get; set; }
     }
 }
